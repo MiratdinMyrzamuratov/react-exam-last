@@ -1,0 +1,1 @@
+export const baseURL = "http://todo.paydali.uz/api"
